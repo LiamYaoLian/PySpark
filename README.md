@@ -1,6 +1,6 @@
 # PySpark
 
-Cheat Sheet:
+Cheat sheet:
 See in the directory. 
 
 A very simple project:
